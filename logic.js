@@ -9,6 +9,14 @@
              
             
             }   
+
+            function Arrays() { 
+
+                        var score = [10, 20, 30, 40]
+
+                        alert(score[3])
+                
+            }
                 
                
                        
